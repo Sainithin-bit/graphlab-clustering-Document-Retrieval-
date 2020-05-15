@@ -1,0 +1,10 @@
+As the data is larger then 25MB i have attached this drive link to download the data
+
+https://d3c33hcgiwev3.cloudfront.net/-q2dp-IAEemnvhJSBz-0XA_9625a0851f91403da0239b66c8e2bed8_people_wiki.sframe.zip?Expires=1589673600&Signature=UyuYQIxmvpOyoARzqbEV2rUIZetBWzZnyVUXwcnmg6Npadul3ufC67VSNRbvDSy-yBoK~orUCmvcfVgp~lXfem63VZHtN2hPVxK61hpXh~0CLWyANJGKSx6Tcng1yetzHYPp-54bJAJ30qLZt8TSUF3nDhAQRpnA8FY7CJx2MPs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+copy the above link and paste it in the new tab.
+Read the data using graphlab.SFrame('path of the file/people.wiki.sframe')
+Note:you should have graphlab installed in you environment else yo can follow the steps to download link-https://turi.com/download/install-graphlab-create-command-line.html
+
+thank you
